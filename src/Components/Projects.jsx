@@ -53,7 +53,7 @@ const Projects = () => {
     style={{ height: "180px", overflow: "hidden" }}
   >
     <img
-      src="instagram.jfif"
+      src="insta.jfif"
       alt="instagram"
       style={{
         width: "100%",

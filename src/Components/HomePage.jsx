@@ -9,8 +9,9 @@ const HomePage = () => {
     <div className="container-fluid p-0">
      <Header></Header>
      <About></About>
-     <Education></Education>
       <Projects></Projects>
+     <Education></Education>
+     
       <Contact></Contact>
      
     </div>
