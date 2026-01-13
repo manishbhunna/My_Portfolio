@@ -107,7 +107,7 @@ const Projects = () => {
                 <span className="badge bg-primary">Node.js</span>
                 <span className="badge bg-success">Express.js</span>
               </div>
-              <a href="https://manishbhunna.github.io/Currency-Converter/" className="btn btn-outline-primary btn-sm">View Project →</a>
+              <a href="https://manishbhunna.github.io/Currency_Converter/" className="btn btn-outline-primary btn-sm">View Project →</a>
             </div>
           </div>
         </div>
