@@ -24,7 +24,7 @@ const Header = () => {
       {/* Hero Section */}
       <section className="hero bg-dark text-white text-center py-5" style={{ minHeight: '100vh', display: 'flex', alignItems: 'center' }}>
         <div className="container">
-          <img src="/mannu.png" alt="Profile" className="rounded-circle mb-3" style={{ width: '300px', height: '300px' }} />
+          <img src="/My_Portfolio/mannu.png" alt="Profile" className="rounded-circle mb-3" style={{ width: '300px', height: '300px' }} />
           <h1 className="display-4">Manish Verma</h1>
           <p className="lead">MERN | Full Stack Developer | Passionate about creating innovative web solutions</p>
           <a href="#contact" className="btn btn-light btn-lg">Get in Touch</a>
