@@ -1,0 +1,14 @@
+.project-card {
+  transition: all 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.12) !important;
+}
+
+.project-card .card-img-top {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
