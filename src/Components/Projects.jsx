@@ -39,7 +39,7 @@ const Projects = () => {
                 <span className="badge bg-success">Payment Gateway</span>
                 <span className="badge bg-info">Responsive</span>
               </div>
-              <a href="https://manishbhunna.github.io/Customize-Gift/" className="btn btn-outline-primary btn-sm">View Project →</a>
+              <a href="https://manishbhunna.github.io/Customize_club/" className="btn btn-outline-primary btn-sm">View Project →</a>
             </div>
           </div>
         </div>
