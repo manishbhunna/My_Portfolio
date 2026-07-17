@@ -45,6 +45,44 @@ const Projects = () => {
         </div>
       </div>
 
+{/*Ai Cide Analyzer */}
+<div className="col-md-6 col-lg-4">
+  <div className="card h-100 shadow-sm border-0 project-card">
+    <div
+    className="card-img-top bg-dark d-flex align-items-center justify-content-center"
+    style={{ height: "180px", overflow: "hidden" }}
+  >
+    <img
+      src="Ai-Code.png"
+      alt="Quiz App"
+      style={{
+        width: "100%",
+        height: "100%",
+        objectFit: "cover"
+      }}
+    />
+  </div>
+    <div className="card-body d-flex flex-column">
+      <h5 className="card-title fw-bold">Ai Code Analyzer</h5>
+      <p className="card-text text-muted mb-3">
+  AI-powered code analysis tool that reviews source code, detects potential issues,
+  provides intelligent suggestions, and helps developers improve code quality with
+  real-time insights.
+</p>
+      <div className="mt-auto">
+        <div className="d-flex flex-wrap gap-2 mb-3">
+          <span className="badge bg-warning text-dark">Ai integration</span>
+          <span className="badge bg-primary">React.js</span>
+          <span className="badge bg-warning text-dark">Express.js</span>
+          <span className="badge bg-success">Dynamic UI</span>
+        </div>
+        <a href="https://manishbhunna.github.io/ai_code_analyser_frontend/" className="btn btn-outline-primary btn-sm">
+          View Project →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
       {/* Social Media App */}
       <div className="col-md-6 col-lg-4">
         <div className="card h-100 shadow-sm border-0 project-card">
